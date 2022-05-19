@@ -2,8 +2,22 @@
     {
         "title":"Hubungan Teknologi dan Perilaku Remaja",
         "description": "Bagaimana perkembangan teknologi saat ini memengaruhi perilaku dan sikap remaja yang banyak melakukan penyimpangan.",
-        "thumbnail": "https://images.unsplash.com/photo-1648937743864-5156661870f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "thumbnail": "https://images.unsplash.com/photo-1628243426757-b092ba839ff9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
         "author": "Adelia Tresnani",
         "published_at": "11 Mei 2022"
+    },
+    {
+        "title":"Aplikasi Multifungsi yang Jarang Diketahui",
+        "description": "Dalam perkembangan zaman ini manusia mulai berlomba-lomba untuk menciptakan suatu inovasi, diantaranya adalah membuat suatu aplikasi.",
+        "thumbnail": "https://images.unsplash.com/photo-1531482615713-2afd69097998?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+        "author": "Adelia Tresnani",
+        "published_at": "12 Mei 2022" 
+    },
+    {
+        "title":"Tips Menghindari Malware",
+        "description": "Dalam dunia internet malware merupakan salah satu masalah besar yang sering terjadi, hal ini disebabkan dengan tidak dapat terdeteksinya kode malware oleh komputer atau antivirus kita.",
+        "thumbnail": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+        "author": "Adelia Tresnani",
+        "published_at": "20 Mei 2022" 
     }
 ]
