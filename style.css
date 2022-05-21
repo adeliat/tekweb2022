@@ -49,6 +49,9 @@
     color: black;
 }
 
+.artikel {
+    padding: 5rem 3rem;
+}
 footer {
     background-color: #BFA2DB;
     color: #5e5c61;

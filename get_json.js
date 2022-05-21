@@ -3,6 +3,7 @@ Vue.createApp({
     return {
       message: "Halo Vue",
       article: [],
+      articles: ""
     };
   },
   methods: {
@@ -22,15 +23,15 @@ Vue.createApp({
     getTitle() {
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const article = urlParams.get('articles');
+      const articles = urlParams.get('article');
       var converter = new showdown.Converter();
       axios
         .get(
-          src = "../contents/" + article
+          src = "https://raw.githubusercontent.com/adeliat/tekweb2022/main/contents/"+articles
         )
         .then((res) => {
           var html = converter.makeHtml(res.data);
-          this.article = html;
+          this.articles = html;
         })
         .catch((error) => {
           console.log(error);
