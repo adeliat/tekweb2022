@@ -10,6 +10,10 @@
     color: #5e5c61;
 }
 
+.container {
+    padding-top: 0%;
+}
+
 #profil {
     width: 200px;
 }
@@ -26,21 +30,27 @@
     background-color: #F0D9FF;
     color:#5e5c61;
 }
+#contact {
+    background-color: #F0D9FF;
+    color: #5e5c61;
+}
 
 .col-md-8 {
     background-color: #F3F1F5;
 }
 
-#contact {
-    color: #5e5c61;
+#articles {
+    padding: 0px 0px 0px;
+}
+
+#articles .btn {
+    background-color: #BFA2DB;
+    border-color: #F0D9FF;
+    color: black;
 }
 
 footer {
     background-color: #BFA2DB;
     color: #5e5c61;
     
-}
-
-#articles {
-    padding-top: 5rem;
 }
