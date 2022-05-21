@@ -1,5 +1,6 @@
 ### Aplikasi Multifungsi yang Jarang Diketahui
 *Diunggah pada 12 Mei 2022*
+__Oleh Adelia Tresnani__
 
 Dalam kehidupan sehari-hari kita pasti mengalami kesusahan. Dalam perkembangan zaman ini manusia mulai berlomba-lomba untuk menciptakan suatu inovasi, diantaranya adalah membuat suatu aplikasi untuk membantu kegiatan dalam kehidupan manusia sehari-hari. Kali saya akan mengulas tentang aplikasi yang jarang diketahui oleh banyak orang, tetapi sangat bermanfaat dalam kehidupan kita yaitu Alarmy.
 

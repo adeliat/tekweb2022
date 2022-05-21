@@ -1,5 +1,6 @@
 ### Hubungan Teknologi dan Perilaku Remaja
 *Diunggah pada 11 Mei 2022*
+__Oleh Adelia Tresnani__
 
 Seiring pertumbuhan dan perkembangan teknologi yang begitu pesat dalam lingkungan masyarakat,memberikan kemudahan bagi masyarakat dalam memperoleh informasi, mengirm data,dan membangun relasi melalui media social serta kemudahan dalam berbagai pekerjaan kantor dan lain lain.Dengan keberadaan teknologi ini,terasa sangat memanjakan kita dengan tawaran-tawaran menarik yang merasa sangat bergantung pada teknologi, sehingga keseharian kita hanya berhadapan dengan teknologi dan berinteraksi dengan teknologi tanpa mempedulikan sekeliling dan sekitar kita. Lingkungan social yang mencermikan bahwa kita adalah makluk social, diwujudnyatakan dan dibangun hanya melalui teknologi, seperti penggunaan media social facebook,twiter,dan lain lain, bahkan ada yang sampai tidak mengenal tetangga dan orang orang disekelilingnya.
 

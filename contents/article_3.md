@@ -1,5 +1,6 @@
 ### Tips Menhindari Malware pada PC
 *Diunggah pada 20 Mei 2022*
+__Oleh Adelia Tresnani__
 
 Malware atau malicious software adalah program yang dibuat untuk menggangu atau merusak kode program atau operating system yang kita pakai. Contoh dari malware diantaranya dikenal dengan istilah Virus, Worm, Keylogger, Browser Hijacker, Trojan Horse, Spyware, Adware, Backdoor.
 
