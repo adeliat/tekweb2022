@@ -3,7 +3,7 @@ Vue.createApp({
       return {
         message: "Hello Vue!",
         header: {},
-        articles: []
+        article: [],
       };
     },
     methods:{    
@@ -19,14 +19,14 @@ Vue.createApp({
               console.log(error);
             });
         },
-        getArticles()
-        {
-            axios
+        getArticles() {
+          axios
             .get(
-              "https://raw.githubusercontent.com/adeliat/tekweb2022/main/contents/articles.json"
+              src = "https://raw.githubusercontent.com/adeliat/tekweb2022/main/contents/articles.json"
             )
-            .then((res) => {              
-              this.articles = res.data;
+            .then((res) => {
+              console.log(res.data);
+              this.article = res.data;
             })
             .catch((error) => {
               console.log(error);
@@ -34,6 +34,6 @@ Vue.createApp({
         }
     },
     beforeMount() {
-        this.getHeaderData()
+        this.getHeaderData();
     }
   }).mount("#app");

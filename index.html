@@ -14,11 +14,11 @@
     <title>Adel's Portofolio</title>
 </head>
 
-<body id="app" v-if="true">
+<body id="app">
     <!-- Navbar -->
     <nav class="navbar fixed-top navbar-light shadow-sm">
-        <div class="container">
-            <a class="navbar-brand" href="#">{{header.title}}</a>
+        <div class="container" v-if="true">
+            <a class="navbar-brand" href="#">{{title}}</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -51,8 +51,8 @@
     <section class="jumbotron jumbotron-fluid text-center">
 
         <img id="profil" v-bind:src="header.imageProfile" alt="Adelia" class="rounded-circle shadow-lg">
-        <h1 class="display-4">{{header.title}}</h1>
-        <p class="lead">{{header.desc}} </p>
+        <h1 class="display-4">{{title}}</h1>
+        <p class="lead">{{desc}} </p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#FFFF" fill-opacity="1"
                 d="M0,288L240,288L480,96L720,192L960,160L1200,160L1440,96L1440,320L1200,320L960,320L720,320L480,320L240,320L0,320Z">
@@ -189,7 +189,7 @@
 
     <!-- Contact -->
     <section id="contact">
-        <div class="container">
+        <div class="container" v-if="true">
             <div class="row text-center mb-3">
                 <div class="col">
                     <h2>Contact Me</h2>
@@ -271,7 +271,7 @@
         crossorigin="anonymous"></script>
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="./main-final.js"></script>
+    <script src="main-final.js"></script>
 
 </body>
 

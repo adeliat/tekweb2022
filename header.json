@@ -1,10 +1,8 @@
 {
     "message": "Hello Vue!'",
-    "header": {
-        "title": "Adelia Tresnani",
-        "desc": "A student of Information Systems at Ahmad Dahlan University",
-        "imageProfile": "https://raw.githubusercontent.com/adeliat/tekweb2022/master/img/prof.jpg"
-    },
+    "title": "Adelia Tresnani",
+    "desc": "A student of Information Systems at Ahmad Dahlan University",
+    "imageProfile": "https://raw.githubusercontent.com/adeliat/tekweb2022/master/img/prof.jpg",
     "about": "Someone who likes to organize and meet new people who add relationships and knowledge. She like new things because it makes herself challenged and want to know more. With the knowledge and abilities she currently has, she hopes to be able to help others and herself. The abilities she got so far are:",
     "portofolio": [
         {
@@ -27,21 +25,20 @@
     "social": [
         {
             "ig": {
-                "url":"http://instagram.com/adelll.t",
+                "url": "http://instagram.com/adelll.t",
                 "title": "adelll.t"
             },
             "gh": {
-                "url":"https://github.com/adeliat",
+                "url": "https://github.com/adeliat",
                 "title": "adeliat"
             },
             "linkedin": {
-                "url":"https://www.linkedin.com/in/adelia-tresnani-0566b6179/",
+                "url": "https://www.linkedin.com/in/adelia-tresnani-0566b6179/",
                 "title": "Adelia Tresnani"
             },
             "email": {
-                "title":"adeliatresnani188@gmail.com"
+                "title": "adeliatresnani188@gmail.com"
             }
-            
         }
     ]
 }
