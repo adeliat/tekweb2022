@@ -200,22 +200,20 @@
                     <div class="info">
                         <div class="instagram">
                             <h5><i class="bi bi-instagram"></i> Instagram:</h5>
-                            <p> <a v-bind:href="header.social == undefined ? '':header.social.ig.url"><i class="bi-instagram"></i> {{header.social == undefined ? '':header.social.ig.title}}</a></p>
+                            <p> <a v-bind:href="header.social == undefined ? '':header.social.ig.url"> {{header.social == undefined ? '':header.social.ig.title}}</a></p>
                         </div>
                         <div class="github">
                             <h5><i class="bi bi-github"></i> Github:</h5>
-                            <p> <a v-bind:href="header.social == undefined ? '':header.social.gh.url"><i class="bi-github"></i> {{header.social == undefined ? '':header.social.gh.title}}</a></p>
+                            <p> <a v-bind:href="header.social == undefined ? '':header.social.gh.url"> {{header.social == undefined ? '':header.social.gh.title}}</a></p>
                         </div>
                         <div class="linkedin">
                             <h5><i class="bi bi-linkedin"></i> LinkedIn:</h5>
-                            <p><a v-bind:href="header.social == undefined ? '':header.social.linkedin.url"><i class="bi-github"></i> {{header.social == undefined ? '':header.social.linkedin.title}}</a></p>
+                            <p><a v-bind:href="header.social == undefined ? '':header.social.linkedin.url">{{header.social == undefined ? '':header.social.linkedin.title}}</a></p>
                         </div>
                         <div class="email">
                             <h5><i class="bi bi-envelope"></i> Email:</h5>
                             <p>{{header.social == undefined ? '':header.social.email.title}}</p>
                         </div>
-
-
                         <div class="address">
                             <h5><i class="bi bi-geo-alt"></i> Location:</h5>
                             <p>23 Trunojoyo Street, Ponorogo, East Java, 63414</p>
@@ -273,7 +271,7 @@
         crossorigin="anonymous"></script>
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="./main.js"></script>
+    <script src="./main-final.js"></script>
 
 </body>
 
