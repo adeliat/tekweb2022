@@ -313,6 +313,4 @@ response:
 true    // if success
 false   // if failure
 
-Desain Database
-
 
